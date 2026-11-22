@@ -1,5 +1,5 @@
 {
-    "spider": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/spider/02_wex.jpg;md5;b7e2f9d16ff81dfe13853c6fff2e2b22",
+    "spider": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/spider/wex-spider.jar;md5;b7e2f9d16ff81dfe13853c6fff2e2b22",
     "wallpaper": "https://www.loliapi.com/acg/",
     "logo": "https://storage.7x24cc.com/storage-server/presigned/ss1/a6-online-fileupload/newMediaFile/3CEAE9E_773_wexfnw_20250911190012684newMediaFile.gif",
     "sites": [
@@ -1072,10 +1072,16 @@
         "static-mozai.4gtv.tv"
     ],
     "lives": [{
-            "name": "建平",
+            "name": "Kimentanm",
             "type": 0,
-            "url": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/assets/sjpzbywl.txt",
+            "url": "https://down.nigx.cn/raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u",
             "playerType": 2
+        }, {
+            "name": "综合直播",
+            "type": 0,
+            "playerType": 2,
+            "url": "http://193.123.86.190:14888/TV/iptv.php",
+            "ua": "bingcha/1.1 (mianfeifenxiang) "
         }
     ],
     "headers": [{
