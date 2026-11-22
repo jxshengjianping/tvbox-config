@@ -1,5 +1,5 @@
 {
-"spider": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/spider/01_main.png;md5;6a396033ae45efee57ba789f91d7123e",
+"spider": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/spider/wex-spider.jar;md5;b7e2f9d16ff81dfe13853c6fff2e2b22",
 "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
 "marquee": "MjAyNi8xMS8wNOe6v+i3r+W3suabtOaWsO+8jOabtOWkmuWlveeUqOi9r+S7tuWwveWcqOWwj+iNieWPo+S7pENDQ0MgMTFBQQ==",   
 "lives": [
