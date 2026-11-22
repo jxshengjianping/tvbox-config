@@ -6,7 +6,7 @@
           {
       "name":"机缘宝盒",
       "type":0,
-      "url":"http://38.75.136.137:88/api/tvlist.php",
+      "url":"https://gitee.com/jxshengjianping/tvbox-config/raw/master/assets/sjpzbywl.txt",
       "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
       "logo":"https://gongdian.top/tv/taibiao/{name}.png",
       "playerType":1,
