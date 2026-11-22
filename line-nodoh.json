@@ -1,32 +1,32 @@
 {
   "urls": [
+       {
+      "url": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/configs-nodoh/13_aiwex.json",
+      "name": "建平┃建平主线"
+    },
     {
       "url": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/configs-nodoh/01_main.json",
-      "name": "🍎小苹果┃主线路"
+      "name": "建平┃小苹果"
     },
     {
       "url": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/configs-nodoh/02_wex.json",
-      "name": "🍎小苹果┃王二小线"
+      "name": "建平┃王二小线"
     },
     {
       "url": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/configs-nodoh/07_zhenxin.json",
-      "name": "🍎小苹果┃真心线路"
+      "name": "建平┃真心线路"
     },
     {
       "url": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/configs-nodoh/03_fish.json",
-      "name": "🍎小苹果┃摸鱼线路"
+      "name": "建平┃摸鱼线路"
     },
     {
       "url": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/configs-nodoh/09_dongli.json",
-      "name": "🍎小苹果┃东篱线路"
+      "name": "建平┃东篱线路"
     },
     {
       "url": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/configs-nodoh/12_kong4k.json",
-      "name": "🍎小苹果┃空空4K线路"
-    },
-    {
-      "url": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/configs-nodoh/13_aiwex.json",
-      "name": "🍎小苹果┃AI WEX线路"
+      "name": "建平┃空空4K线路"
     }
   ]
 }
