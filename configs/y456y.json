@@ -1198,7 +1198,7 @@
       "type":0,
       "url":"https://gitee.com/jxshengjianping/tvbox-config/raw/master/assets/sjpzbywl.txt",
       "epg":"https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
-      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "logo":"https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png",
       "timeout":5
       }
         ],
