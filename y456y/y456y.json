@@ -1160,37 +1160,6 @@
       }
     },
     {
-      "key": "Market",
-      "name": "🛒┆网盘┆市场",
-      "type": 3,
-      "api": "csp_Market",
-      "searchable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "list"
-      },
-      "ext": {
-        "categories": [
-          {
-            "name": "潇洒资源一",
-            "url": "https://pan.quark.cn/s/969cc97687d3"
-          },
-          {
-            "name": "潇洒资源二",
-            "url": "https://drive.uc.cn/s/ba531661b3eb4"
-          },
-          {
-            "name": "奇奇更新一",
-            "url": "https://pan.quark.cn/s/ab00f85da8ea"
-          },
-          {
-            "name": "奇奇更新二",
-            "url": "https://drive.uc.cn/s/ef22fcbfdd934"
-          }
-        ]
-      }
-    },
-    {
       "key": "push_agent",
       "name": "💌┆推送┆接收",
       "type": 3,
