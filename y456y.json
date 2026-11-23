@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "Douban",
-      "name": "🌕️┆片单┆精选",
+      "name": "",
       "type": 3,
       "api": "csp_PianDan",
       "searchable": 1,
@@ -1192,7 +1192,13 @@
       }
     }
   ],
-  "lives": [],
+  "lives": [{
+            "name": "建平",
+            "type": 0,
+            "url": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/assets/sjpzbywl.txt",
+            "playerType": 2
+        }
+        ],
   "parses": [],
   "flags": [],
   "ijk": [
