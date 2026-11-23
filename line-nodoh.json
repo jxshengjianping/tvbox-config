@@ -1,16 +1,12 @@
 {
   "urls": [
     {
-      "url": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/configs-nodoh/13_aiwex.json",
+      "url": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/configs-nodoh/14_newwex.json",
       "name": "建平┃建平主线"
     },
     {
       "url": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/configs-nodoh/01_main.json",
       "name": "建平┃小苹果"
-    },
-    {
-      "url": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/configs-nodoh/14_newwex.json",
-      "name": "🍎小苹果┃WEX新线路"
     }
   ]
 }
