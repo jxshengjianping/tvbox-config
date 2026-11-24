@@ -1188,7 +1188,7 @@
       "name":"建平",
       "type":0,
       "url":"https://gitee.com/jxshengjianping/tvbox-config/raw/master/assets/sjpzbywl.txt",
-      "epg":"https://diyp4.112114.xyz/?ch={name}&date={date}",
+      "epg":"https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
       "logo":"https://gitee.com/jxshengjianping/tvbox-config/raw/master/assets/icons/{name}.png",
       "timeout":5
       }
