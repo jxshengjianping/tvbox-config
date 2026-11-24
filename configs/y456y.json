@@ -1198,7 +1198,7 @@
       "type":0,
       "url":"https://gitee.com/jxshengjianping/tvbox-config/raw/master/assets/sjpzbywl.txt",
       "epg":"https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
-      "logo":"https://gcore.jsdelivr.net/gh/taksssss/tv/icon/{name}.png",
+      "logo":"https://gitee.com/jxshengjianping/tvbox-config/raw/master/assets/icons/{name}.png",
       "timeout":5
       }
         ],
