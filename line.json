@@ -1,11 +1,11 @@
 {
   "urls": [
     {
-      "url": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/configs/y456y.json",
+      "url": "https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/configs/y456y.json",
       "name": "建平┃主线"
     },
     {
-      "url": "https://gitee.com/jxshengjianping/tvbox-config/raw/master/configs/01_main.json",
+      "url": "https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/configs/01_main.json",
       "name": "建平┃小苹果"
     }
   ]
