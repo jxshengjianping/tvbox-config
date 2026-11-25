@@ -1,11 +1,11 @@
 {
   "urls": [
     {
-      "url": "https://cdn.jsdelivr.net/gh/jxshengjianping/tvbox-config@master/configs/y456y.json",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/configs/y456y.json",
       "name": "建平┃主线"
     },
     {
-      "url": "https://cdn.jsdelivr.net/gh/jxshengjianping/tvbox-config@master/configs/01_main.json",
+      "url": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/configs/01_main.json",
       "name": "建平┃小苹果"
     }
   ]
