@@ -1,5 +1,5 @@
 {
-"spider": "https://cdn.jsdelivr.net/gh/jxshengjianping/tvbox-config@master/spider/01_main.png;md5;6a396033ae45efee57ba789f91d7123e",
+"spider": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/01_main.png;md5;6a396033ae45efee57ba789f91d7123e",
 "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
 "marquee": "MjAyNi8xMS8wNOe6v+i3r+W3suabtOaWsO+8jOabtOWkmuWlveeUqOi9r+S7tuWwveWcqOWwj+iNieWPo+S7pENDQ0MgMTFBQQ==",   
 "lives": [
@@ -139,7 +139,7 @@
             "jar": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/01_main_jar_cdc1e422.jar",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://cdn.jsdelivr.net/gh/jxshengjianping/tvbox-config@master/assets/01_main_6.txt"
+            "ext": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/01_main_6.txt"
         },
               {
       "key": "潮流",
@@ -359,8 +359,8 @@
       "key": "虎牙js",
       "name": "虎牙┃直播",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/jxshengjianping/tvbox-config@master/assets/01_main_drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/jxshengjianping/tvbox-config@master/assets/01_main_%E8%99%8E%E7%89%99.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/01_main_drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/01_main_%E8%99%8E%E7%89%99.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -375,8 +375,8 @@
       "key": "斗鱼js",
       "name": "斗鱼┃直播",
       "type": 3,
-      "api": "https://cdn.jsdelivr.net/gh/jxshengjianping/tvbox-config@master/assets/01_main_drpy2.min.js",
-      "ext": "https://cdn.jsdelivr.net/gh/jxshengjianping/tvbox-config@master/assets/01_main_%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js",
+      "api": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/01_main_drpy2.min.js",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/01_main_%E6%96%97%E9%B1%BC%E7%9B%B4%E6%92%AD.js",
       "style": {
         "type": "rect",
         "ratio": 1.755
@@ -476,7 +476,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://cdn.jsdelivr.net/gh/jxshengjianping/tvbox-config@master/assets/01_main_%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json",
+      "ext": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/01_main_%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json",
       "style": {
                 "type": "rect",
                 "ratio": 1.597

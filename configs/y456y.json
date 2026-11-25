@@ -1187,9 +1187,9 @@
    {
       "name":"建平",
       "type":0,
-      "url":"https://cdn.jsdelivr.net/gh/jxshengjianping/tvbox-config@master/assets/sjpzbywl.txt",
+      "url":"https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/sjpzbywl.txt",
       "epg":"https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
-      "logo":"https://cdn.jsdelivr.net/gh/jxshengjianping/tvbox-config@master/assets/icons/{name}.png",
+      "logo":"https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/icons/{name}.png",
       "timeout":5
       }
         ],
