@@ -1,15 +1,15 @@
 {
-    "wallpaper": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_wallpaper.jpg",
-    "logo": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_logo.gif",
-    "spider": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_94cc7730.jar;md5;94cc7730ebec586a25a1179bc4b2754b",
+    "wallpaper": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_wallpaper.jpg",
+    "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_logo.gif",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_94cc7730.jar;md5;94cc7730ebec586a25a1179bc4b2754b",
     "warningText": "an装🅱na提示:\n📢接口软件永远免费 \n📢长期维护切勿贩卖",
     "lives": [
    {
       "name":"建平",
       "type":0,
-      "url":"https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/sjpzbywl.txt",
+      "url":"https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/sjpzbywl.txt",
       "epg":"https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
-      "logo":"https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/icons/{name}.png",
+      "logo":"https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/icons/{name}.png",
       "timeout":5
       }
     ],
@@ -27,14 +27,14 @@
             "type": 3,
             "api": "csp_Notice",
             "searchable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_012f0474.jar;md5;012f04743a137a0f4622262ba1007f25",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_012f0474.jar;md5;012f04743a137a0f4622262ba1007f25",
             "ext": "http://jar.yy.xn--dkw.xn--6qq986b3xl/m/公告?b=an装🅱na"
         },
         {
             "key": "config",
             "name": "🐲歌配置｜中心",
             "type": 3,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_dd19c67b.jar;md5;dd19c67b72b708f567d94500d7d9ab4e",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_dd19c67b.jar;md5;dd19c67b72b708f567d94500d7d9ab4e",
             "api": "csp_Config",
             "searchable": 0
         },
@@ -57,7 +57,7 @@
             "changeable": "0",
             "api": "csp_Duopan",
             "filterable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_d29b7750.jar;md5;d29b7750dc6fc68cfbd5d40b1503d9d0",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_d29b7750.jar;md5;d29b7750dc6fc68cfbd5d40b1503d9d0",
             "ext": {
                 "site_urls": [
                     "https://woog.nxog.fun",
@@ -78,7 +78,7 @@
             "changeable": "0",
             "api": "csp_Duopan",
             "filterable": 1,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_dd19c67b.jar;md5;dd19c67b72b708f567d94500d7d9ab4e",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_dd19c67b.jar;md5;dd19c67b72b708f567d94500d7d9ab4e",
             "ext": {
                 "site_urls": [
                     "https://ogkk.nxog.fun",
@@ -114,7 +114,7 @@
             "name": "💡荐片｜影视",
             "api": "csp_Jianpian",
             "type": 3,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/ssets/og_ext_6.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/og_ext_6.json"
         },
         {
             "key": "移动",
@@ -224,7 +224,7 @@
             "type": 3,
             "api": "csp_Nmvod",
             "playerType": 2,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_939ffbc2.jar;md5;939ffbc2941a28ca533f2653fa4b449e",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_939ffbc2.jar;md5;939ffbc2941a28ca533f2653fa4b449e",
             "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
         },
         {
@@ -756,7 +756,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/ssets/og_ext_13.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/og_ext_13.json"
         },
         {
             "key": "夸克云盘",
@@ -770,7 +770,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/ssets/og_ext_14.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/og_ext_14.json"
         },
         {
             "key": "UC",
@@ -784,7 +784,7 @@
                 "type": "list",
                 "ratio": 1.433
             },
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/ssets/og_ext_15.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/og_ext_15.json"
         },
         {
             "key": "百度云盘",
@@ -803,9 +803,9 @@
             "key": "养生堂",
             "name": "🧿养生｜知识",
             "type": 3,
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_4d860d06.jar;md5;4d860d06ec233dbcb891b76055f099d5",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_4d860d06.jar;md5;4d860d06ec233dbcb891b76055f099d5",
             "api": "csp_XBPQ",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/ssets/og_ext_17.json",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/og_ext_17.json",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -819,22 +819,22 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/ssets/og_ext_18.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/og_ext_18.json"
         },
         {
             "key": "农民",
             "name": "🧿农民｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_4d860d06.jar;md5;4d860d06ec233dbcb891b76055f099d5",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/ssets/og_ext_19.json"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_4d860d06.jar;md5;4d860d06ec233dbcb891b76055f099d5",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/og_ext_19.json"
         },
         {
             "key": "永乐",
             "name": "🧿永乐｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_4d860d06.jar;md5;4d860d06ec233dbcb891b76055f099d5",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_4d860d06.jar;md5;4d860d06ec233dbcb891b76055f099d5",
             "ext": {
                 "副标题": "欧歌专属",
                 "请求头": "User-Agent$MOBILE_UA",
@@ -847,15 +847,15 @@
             "name": "🧿韩国｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_4d860d06.jar;md5;4d860d06ec233dbcb891b76055f099d5",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/ssets/og_ext_20.json"
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_4d860d06.jar;md5;4d860d06ec233dbcb891b76055f099d5",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/og_ext_20.json"
         },
         {
             "key": "小鸭",
             "name": "🧿小鸭｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_4d860d06.jar;md5;4d860d06ec233dbcb891b76055f099d5",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_4d860d06.jar;md5;4d860d06ec233dbcb891b76055f099d5",
             "ext": {
                 "副标题": "欧歌专属",
                 "请求头": "User-Agent$MOBILE_UA",
@@ -868,7 +868,7 @@
             "name": "🧿老王｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_4d860d06.jar;md5;4d860d06ec233dbcb891b76055f099d5",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_4d860d06.jar;md5;4d860d06ec233dbcb891b76055f099d5",
             "ext": {
                 "副标题": "欧歌专属",
                 "请求头": "User-Agent$MOBILE_UA",
@@ -881,7 +881,7 @@
             "name": "🧿快快｜影视",
             "type": 3,
             "api": "csp_XBPQ",
-            "jar": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_4d860d06.jar;md5;4d860d06ec233dbcb891b76055f099d5",
+            "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/og_jar_4d860d06.jar;md5;4d860d06ec233dbcb891b76055f099d5",
             "ext": {
                 "副标题": "欧歌专属",
                 "请求头": "User-Agent$MOBILE_UA",
@@ -1376,7 +1376,7 @@
             "api": "csp_Market",
             "searchable": 0,
             "changeable": 0,
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/ssets/og_ext_21.json"
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/og_ext_21.json"
         },
         {
             "key": "豆瓣3",

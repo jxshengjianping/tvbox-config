@@ -1,7 +1,7 @@
 {
-    "spider": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/xs_jar_d58aeec6.jar;md5;d58aeec66895c8abebe6a78ec6ee8c25",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/xs_jar_d58aeec6.jar;md5;d58aeec66895c8abebe6a78ec6ee8c25",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-    "logo": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/xs_logo.jpg",
+    "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/xs_logo.jpg",
     "danmaku": "http://127.0.0.1:9978/proxy?do=danmaku&name={name}&episode={episode}",
     "sites": [
         {
@@ -1311,7 +1311,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/xs_ext_1.json",
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/xs_ext_1.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1328,7 +1328,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/xs_ext_2.json",
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/xs_ext_2.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1345,7 +1345,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/xs_ext_3.json",
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/xs_ext_3.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1362,7 +1362,7 @@
             "quickSearch": 0,
             "changeable": 0,
             "ext": {
-                "json": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/xs_ext_4.json",
+                "json": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/xs_ext_4.json",
                 "cookie": "http://127.0.0.1:9978/file/TVBox/bili_cookie.txt"
             },
             "style": {
@@ -1412,9 +1412,9 @@
               {
       "name":"建平",
       "type":0,
-      "url":"https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/sjpzbywl.txt",
+      "url":"https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/sjpzbywl.txt",
       "epg":"https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
-      "logo":"https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/icons/{name}.png",
+      "logo":"https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/icons/{name}.png",
       "timeout":5
       }
     ],

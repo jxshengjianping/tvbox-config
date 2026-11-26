@@ -1,5 +1,5 @@
 {
-    "spider": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/fty_jar_5302302a.jar;md5;5302302a73a9e27cfaa65f3873b727ab",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/fty_jar_5302302a.jar;md5;5302302a73a9e27cfaa65f3873b727ab",
     "wallpaper": "https://动态壁纸.饭.eu.org/",
     "sites": [
         {
@@ -395,8 +395,8 @@
             "key": "虎牙js",
             "name": "🐯虎牙┃直播",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/fty_drpy2.min.js",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/fty_huya.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/fty_drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/fty_huya.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -411,8 +411,8 @@
             "key": "斗鱼js",
             "name": "🐟斗鱼┃直播",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/fty_drpy2.min.js",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/fty_douyu.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/fty_drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/fty_douyu.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.755
@@ -539,8 +539,8 @@
             "key": "dr_兔小贝",
             "name": "📚儿童┃启蒙",
             "type": 3,
-            "api": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/fty_drpy2.min.js",
-            "ext": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/fty_tuxiaobei.js",
+            "api": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/fty_drpy2.min.js",
+            "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/fty_tuxiaobei.js",
             "style": {
                 "type": "rect",
                 "ratio": 1.597
@@ -643,9 +643,9 @@
       {
       "name":"建平",
       "type":0,
-      "url":"https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/sjpzbywl.txt",
+      "url":"https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/sjpzbywl.txt",
       "epg":"https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
-      "logo":"https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/icons/{name}.png",
+      "logo":"https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/icons/{name}.png",
       "timeout":5
       }
     ]

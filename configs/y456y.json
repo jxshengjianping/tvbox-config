@@ -1,5 +1,5 @@
 {
-  "spider": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/03_fish.jar;md5;53b51f8c239b727ce4cd18dc2c3b7a99",
+  "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/03_fish.jar;md5;53b51f8c239b727ce4cd18dc2c3b7a99",
   "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
@@ -1187,9 +1187,9 @@
    {
       "name":"建平",
       "type":0,
-      "url":"https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/sjpzbywl.txt",
+      "url":"https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/sjpzbywl.txt",
       "epg":"https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
-      "logo":"https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/icons/{name}.png",
+      "logo":"https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/icons/{name}.png",
       "timeout":5
       }
         ],

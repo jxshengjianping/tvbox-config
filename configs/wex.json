@@ -1,7 +1,7 @@
 {
-    "spider": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/wex_jar_b0f6090a.jar;md5;b0f6090aaf39b01168acc99e73950e4c",
+    "spider": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/wex_jar_b0f6090a.jar;md5;b0f6090aaf39b01168acc99e73950e4c",
     "wallpaper": "https://www.loliapi.com/acg/",
-    "logo": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/wex_logo.gif",
+    "logo": "https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/wex_logo.gif",
     "sites": [
         {
             "key": "Douban",
@@ -1129,9 +1129,9 @@
    {
       "name":"建平",
       "type":0,
-      "url":"https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/sjpzbywl.txt",
+      "url":"https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/sjpzbywl.txt",
       "epg":"https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
-      "logo":"https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/icons/{name}.png",
+      "logo":"https://gh-proxy.com/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/icons/{name}.png",
       "timeout":5
       }
     ],
