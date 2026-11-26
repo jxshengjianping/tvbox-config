@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "Douban",
-      "name": "",
+      "name": " ",
       "type": 3,
       "api": "csp_PianDan",
       "searchable": 1,
