@@ -4,8 +4,8 @@
     "logo": "https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/spider/wex_logo.gif",
     "sites": [
         {
-            "key": "",
-            "name": "🐮【免费分享】🐮",
+            "key": "Douban",
+            "name": " ",
             "type": 3,
             "api": "csp_NewDouBanGuard",
             "indexs": 1,
