@@ -6,7 +6,7 @@
     "sites": [
         {
             "key": "豆瓣",
-            "name": "豆瓣 • 首页",
+            "name": " ",
             "type": 3,
             "api": "csp_Douban",
             "searchable": 0
@@ -1409,7 +1409,14 @@
         }
     ],
     "lives": [
-        {}
+              {
+      "name":"建平",
+      "type":0,
+      "url":"https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/sjpzbywl.txt",
+      "epg":"https://epg.erw.cc/api/diyp/?ch={name}&date={date}",
+      "logo":"https://ghfast.top/https://raw.githubusercontent.com/jxshengjianping/tvbox-config/master/assets/icons/{name}.png",
+      "timeout":5
+      }
     ],
     "parses": [
         {
